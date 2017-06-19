@@ -1,0 +1,286 @@
+Бразилия	–	Испания		3:0
+Уругвай	–	Италия		2:3
+Испания	–	Италия		7:6
+Бразилия	–	Уругвай		2:1
+Италия	–	Бразилия		2:4
+Япония	–	Мексика		1:2
+Италия	–	Япония		4:3
+Бразилия	–	Мексика		2:0
+Мексика	–	Италия		1:2
+Бразилия	–	Япония		3:0
+Нигерия	–	Испания		0:3
+Уругвай	–	Таити		8:0
+Нигерия	–	Уругвай		1:2
+Испания	–	Таити		10:0
+Таити	–	Нигерия		1:6
+Испания	–	Уругвай		2:1
+США	–	Бразилия		2:3
+Испания	–	ЮАР		3:2
+Бразилия	–	ЮАР		1:0
+Испания	–	США		0:2
+Ирак	–	Новая Зеландия		0:0
+Испания	–	ЮАР		2:0
+ЮАР	–	Новая Зеландия		2:0
+Испания	–	Ирак		1:0
+Новая Зеландия	–	Испания		0:5
+ЮАР	–	Ирак		0:0
+Египет	–	США		0:3
+Италия	–	Бразилия		0:3
+Египет	–	Италия		1:0
+США	–	Бразилия		0:3
+США	–	Италия		1:3
+Бразилия	–	Египет		4:3
+Бразилия	–	Аргентина		4:1
+Германия	–	Мексика		4:3
+Мексика	–	Аргентина		5:6
+Германия	–	Бразилия		2:3
+Австралия	–	Тунис		0:2
+Германия	–	Аргентина		2:2
+Австралия	–	Аргентина		2:4
+Германия	–	Тунис		3:0
+Германия	–	Австралия		4:3
+Аргентина	–	Тунис		2:1
+Греция	–	Мексика		0:0
+Япония	–	Бразилия		2:2
+Мексика	–	Бразилия		1:0
+Греция	–	Япония		0:1
+Бразилия	–	Греция		3:0
+Япония	–	Мексика		1:2
+Германия	–	Аргентина		1:0
+Бразилия	–	Голландия		0:3
+Голландия	–	Аргентина		0:0
+Бразилия	–	Германия		1:7
+Голландия	–	Коста-Рика		4:3
+Аргентина	–	Бельгия		1:0
+Бразилия	–	Колумбия		2:1
+Франция	–	Германия		0:1
+Бельгия	–	США		2:1
+Аргентина	–	Швейцария		1:0
+Германия	–	Алжир		2:1
+Франция	–	Нигерия		2:0
+Коста-Рика	–	Греция		5:3
+Голландия	–	Мексика		2:1
+Колумбия	–	Уругвай		2:0
+Бразилия	–	Чили		3:2
+Камерун	–	Бразилия		1:4
+Хорватия	–	Мексика		1:3
+Камерун	–	Хорватия		0:4
+Бразилия	–	Мексика		0:0
+Мексика	–	Камерун		1:0
+Бразилия	–	Хорватия		3:1
+Голландия	–	Чили		2:0
+Испания	–	Чили		0:2
+Австралия	–	Голландия		2:3
+Чили	–	Австралия		3:1
+Испания	–	Голландия		1:5
+Греция	–	Кот-д'Ивуар		2:1
+Япония	–	Колумбия		1:4
+Япония	–	Греция		0:0
+Колумбия	–	Кот-д'Ивуар		2:1
+Кот-д'Ивуар	–	Япония		2:1
+Колумбия	–	Греция		3:0
+Италия	–	Уругвай		0:1
+Коста-Рика	–	Англия		0:0
+Италия	–	Коста-Рика		0:1
+Уругвай	–	Англия		2:1
+Англия	–	Италия		1:2
+Уругвай	–	Коста-Рика		1:3
+Эквадор	–	Франция		0:0
+Гондурас	–	Швейцария		0:3
+Гондурас	–	Эквадор		1:2
+Швейцария	–	Франция		2:5
+Франция	–	Гондурас		3:0
+Швейцария	–	Эквадор		2:1
+Босния и Герцеговина	–	Иран		3:1
+Нигерия	–	Аргентина		2:3
+Нигерия	–	Босния и Герцеговина		1:0
+Аргентина	–	Иран		1:0
+Иран	–	Нигерия		0:0
+Аргентина	–	Босния и Герцеговина		2:1
+Португалия	–	Гана		2:1
+США	–	Германия		0:1
+США	–	Португалия		2:2
+Германия	–	Гана		2:2
+Гана	–	США		1:2
+Германия	–	Португалия		4:0
+Алжир	–	Россия		1:1
+Южная Корея	–	Бельгия		0:1
+Южная Корея	–	Алжир		2:4
+Бельгия	–	Россия		1:0
+Россия	–	Южная Корея		1:1
+Бельгия	–	Алжир		2:1
+Иран	–	Новая Зеландия		3:0
+Россия	-	Новая Зеландия		2:0
+Португалия	-	Мексика		2:2
+Камерун	-	Чили	0:2
+France - Romania	2 - 1
+Albania - Switzerland	0 - 1
+Wales - Slovakia	2 - 1
+England - Russia	1 - 1
+Turkey - Croatia	0 - 1
+Poland - North. Ireland	1 - 0
+Germany - Ukraine	2 - 0
+Spain - Czech Republic	1 - 0
+Ireland - Sweden	1 - 1
+Belgium - Italy	0 - 2
+Austria - Hungary	0 - 2
+Portugal - Iceland	1 - 1
+Russia - Slovakia	1 - 2
+Romania - Switzerland	1 - 1
+France - Albania	2 - 0
+England - Wales	2 - 1
+Ukraine - North. Ireland	0 - 2
+Germany - Poland	0 - 0
+Italy - Sweden	1 - 0
+Czech Republic - Croatia	2 - 2
+Spain - Turkey	3 - 0
+Belgium - Ireland	3 - 0
+Iceland - Hungary	1 - 1
+Portugal - Austria	0 - 0
+Switzerland - France	0 - 0
+Romania - Albania	0 - 1
+Slovakia - England	0 - 0
+Russia - Wales	0 - 3
+North. Ireland - Germany	0 - 1
+Ukraine - Poland	0 - 1
+Croatia - Spain	2 - 1
+Czech Republic - Turkey	0 - 2
+Iceland - Austria	2 - 1
+Hungary - Portugal	3 - 3
+Sweden - Belgium	0 - 1
+Italy - Ireland	0 - 1
+Switzerland - Poland	1 - 1
+Wales - North. Ireland	1 - 0
+Croatia - Portugal	0 - 1
+France - Ireland	2 - 1
+Germany - Slovakia	3 - 0
+Hungary - Belgium	0 - 4
+Italy - Spain	2 - 0
+England - Iceland	1 - 2
+Poland - Portugal	1 - 1
+Wales - Belgium	3 - 1
+Germany - Italy	1 - 1
+France - Iceland	5 - 2
+Portugal - Wales	2 - 0
+Germany - France	0 - 2
+Portugal - France	1 - 0
+Czech Republic - Azerbaijan	0 - 0
+Norway - San Marino	4 - 1
+Slovakia - Scotland	3 - 0
+Germany - North. Ireland	2 - 0
+Lithuania - Malta	2 - 0
+Denmark - Montenegro	0 - 1
+Poland - Armenia	2 - 1
+Armenia - Montenegro	3 - 2
+Czech Republic - Norway	2 - 1
+San Marino - Germany	0 - 8
+Denmark - Kazakhstan	4 - 1
+France - Sweden	2 - 1
+North. Ireland - Azerbaijan	4 - 0
+England - Scotland	3 - 0
+Malta - Slovenia	0 - 1
+Slovakia - Lithuania	4 - 0
+Romania - Poland	0 - 3
+Turkey - Kosovo	2 - 0
+Georgia - Moldova	1 - 1
+Croatia - Iceland	2 - 0
+Austria - Ireland Rep.	0 - 1
+Wales - Serbia	1 - 1
+Liechtenstein - Italy	0 - 4
+Albania - Israel	0 - 3
+Ukraine - Finland	1 - 0
+Spain - Macedonia	4 - 0
+Hungary - Andorra	4 - 0
+Switzerland - Faroe Islands	2 - 0
+Cyprus - Gibraltar	3 - 1
+Luxembourg - Netherlands	1 - 3
+Bulgaria - Belarus	1 - 0
+Belgium - Estonia	8 - 1
+Portugal - Latvia	4 - 1
+Greece - Bosnia-Herzegov	1 - 1
+Georgia - Serbia	1 - 3
+Turkey - Finland	2 - 0
+Kosovo - Iceland	1 - 2
+Croatia - Ukraine	1 - 0
+Liechtenstein - Macedonia	0 - 3
+Ireland Rep. - Wales	0 - 0
+Spain - Israel	4 - 1
+Austria - Moldova	2 - 0
+Italy - Albania	2 - 0
+Switzerland - Latvia	1 - 0
+Cyprus - Estonia	0 - 0
+Sweden - Belarus	4 - 0
+Bosnia-Herzegov - Gibraltar	5 - 0
+Andorra - Faroe Islands	0 - 0
+Belgium - Greece	1 - 1
+Luxembourg - France	1 - 3
+Portugal - Hungary	3 - 0
+Bulgaria - Netherlands	2 - 0
+England - Lithuania	2 - 0
+Azerbaijan - Germany	1 - 4
+San Marino - Czech Republic	0 - 6
+Armenia - Kazakhstan	2 - 0
+Montenegro - Poland	1 - 2
+North. Ireland - Norway	2 - 0
+Romania - Denmark	0 - 0
+Malta - Slovakia	1 - 3
+Scotland - Slovenia	1 - 0
+Sweden - France	2 - 1
+Latvia - Portugal	0 - 3
+Netherlands - Luxembourg	5 - 0
+Belarus - Bulgaria	2 - 1
+Faroe Islands - Switzerland	0 - 2
+Gibraltar - Cyprus	1 - 2
+Bosnia-Herzegov - Greece	0 - 0
+Andorra - Hungary	1 - 0
+Estonia - Belgium	0 - 2
+Slovenia - Malta	2 - 0
+Kazakhstan - Denmark	1 - 3
+Scotland - England	2 - 2
+Azerbaijan - North. Ireland	0 - 1
+Germany - San Marino	7 - 0
+Norway - Czech Republic	1 - 1
+Lithuania - Slovakia	1 - 2
+Poland - Romania	3 - 1
+Montenegro - Armenia	4 - 1
+Finland - Ukraine	1 - 2
+Ireland Rep. - Austria	1 - 1
+Moldova - Georgia	2 - 2
+Macedonia - Spain	1 - 2
+Israel - Albania	0 - 3
+Italy - Liechtenstein	5 - 0
+Serbia - Wales	1 - 1
+Kosovo - Turkey	1 - 4
+Iceland - Croatia	1 - 0
+USA - Colombia	0 - 2
+Costa Rica - Paraguay	0 - 0
+Haiti - Peru	0 - 1
+Brazil - Ecuador	0 - 0
+Jamaica - Venezuela	0 - 1
+Mexico - Uruguay	3 - 1
+Panama - Bolivia	2 - 1
+Argentina - Chile	2 - 1
+USA - Costa Rica	4 - 0
+Colombia - Paraguay	2 - 1
+Brazil - Haiti	7 - 1
+Ecuador - Peru	2 - 2
+Uruguay - Venezuela	0 - 1
+Mexico - Jamaica	2 - 0
+Chile - Bolivia	2 - 1
+Argentina - Panama	5 - 0
+USA - Paraguay	1 - 0
+Colombia - Costa Rica	2 - 3
+Ecuador - Haiti	4 - 0
+Brazil - Peru	0 - 1
+Mexico - Venezuela	1 - 1
+Uruguay - Jamaica	3 - 0
+Chile - Panama	4 - 2
+Argentina - Bolivia	3 - 0
+USA - Ecuador	2 - 1
+Peru - Colombia	0 - 0
+Argentina - Venezuela	4 - 1
+Mexico - Chile	0 - 7
+USA - Argentina	0 - 4
+Colombia - Chile	0 - 2
+USA - Colombia	0 - 1
+Argentina - Chile	0 - 0
